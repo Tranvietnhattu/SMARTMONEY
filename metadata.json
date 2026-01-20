@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Money - NHATTU SJC - Quản Lý Chi Tiêu",
+  "description": "Ứng dụng quản lý tài chính cá nhân thông minh với trợ lý AI và hệ thống chấm điểm tài chính Financial Score.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
